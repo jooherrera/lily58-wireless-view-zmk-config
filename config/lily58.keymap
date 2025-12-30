@@ -30,11 +30,11 @@
 
             display-name = "Base";
             bindings = <
-&kp ESC    &kp N1        &kp N2     &kp N3         &kp N4  &kp N5                            &kp N6     &kp N7  &kp N8  &kp N9  &kp N0  &kp BACKSPACE
-&kp TAB    &caps_word    &kp COLON  &kp SEMICOLON  &kp P   &kp Y                             &kp F      &kp G   &kp C   &kp R   &kp L   &kp BACKSPACE
-&kp LCTRL  &kp A         &kp O      &kp E          &kp U   &kp I                             &kp D      &kp H   &kp T   &kp N   &kp S   &kp GREATER_THAN
-&kp LSHFT  &kp LEFT_ALT  &kp Q      &kp J          &kp K   &kp X      &kp LBKT     &kp RBKT  &kp B      &kp M   &kp W   &kp V   &kp Z   &kp LESS_THAN
-                                    &kp LEFT_GUI   &mo 1   &kp SPACE  &kp SPACE    &kp RET   &kp ENTER  &mo 2   &mo 3
+&kp ESC           &kp N1        &kp N2     &kp N3         &kp N4  &kp N5                            &kp N6     &kp N7  &kp N8  &kp N9  &kp N0  &kp BACKSPACE
+&kp TAB           &caps_word    &kp COLON  &kp SEMICOLON  &kp P   &kp Y                             &kp F      &kp G   &kp C   &kp R   &kp L   &kp BACKSPACE
+&mt LCTRL ESCAPE  &kp A         &kp O      &kp E          &kp U   &kp I                             &kp D      &kp H   &kp T   &kp N   &kp S   &kp GREATER_THAN
+&kp LSHFT         &kp LEFT_ALT  &kp Q      &kp J          &kp K   &kp X      &kp LBKT     &kp RBKT  &kp B      &kp M   &kp W   &kp V   &kp Z   &kp LESS_THAN
+                                           &kp LEFT_GUI   &mo 1   &kp SPACE  &kp SPACE    &kp RET   &kp ENTER  &mo 2   &mo 3
             >;
         };
 
